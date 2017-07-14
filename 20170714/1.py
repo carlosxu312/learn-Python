@@ -7,7 +7,6 @@
 print('Hello  World')
 print('今天是周五了')
 
-
 #name=input()
 #print(name)
 a=100
