@@ -39,3 +39,4 @@ classmate = ('Michael', 'Bob', 'Tracy')
 # tuple的陷阱：当你定义一个tuple时，在定义的时候，tuple的元素就必须被确定下来
 # 要定义一个只有1个元素的tuple,只有1个元素的tuple定义时必须加一个逗号,，来消除歧义
 t = (1,)
+import urllib
